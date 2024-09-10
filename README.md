@@ -1,6 +1,6 @@
 # Spotify Song Recommendation System
 
-![coverpic](song_recommender_cover.jpg)
+![coverpic](coverpic.webp)
 ## Overview
 
 This project creates a song recommendation system using Spotify's API. It extracts diverse audio features from tracks, searches for genre-based playlists to build a comprehensive dataset, and employs K-means clustering to recommend similar songs based on user input.
